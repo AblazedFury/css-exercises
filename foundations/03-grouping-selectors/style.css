@@ -1,0 +1,13 @@
+.The-one,.Another-one {
+    font-size: 28px;
+    font-family:  Helvetica, sans-serif , sans-serif;
+}
+
+.The-one {
+    color: white;
+    background-color: black;
+}
+
+.Another-one {
+    background-color: yellow;
+}
